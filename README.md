@@ -8,10 +8,10 @@ Here you will find all the online tools that a good cybersecurity investigator n
 
 ## 📚 Table of Contents
 
-- [🔎 Search Engines](#🔎-search-engines)
-    - [🗝️ Credentials](#🗝️-credentials)
-    - [📃 Documents](#📃-documents)
-    - [🖼️ Images](#🖼️-images)
+- 🔎 [Search Engines](#-search-engines)
+    - 🗝️ [Credentials](#-credentials)
+    - 📃 [Documents](#-documents)
+    - 🖼️ [Images](#-images)
 
 ## 🔎 Search Engines
 
